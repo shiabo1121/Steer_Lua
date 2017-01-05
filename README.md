@@ -1,2 +1,3 @@
 # UnitySteer_Lua
-Lua version of Unity Steer
+translate this toolkit with lua
+https://github.com/ricardojmendez/UnitySteer
